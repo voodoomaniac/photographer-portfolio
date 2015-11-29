@@ -1,2 +1,6 @@
 packages/
 PP.Web/GalleryImages/
+PP.Core/bin/
+PP.Core/obj/
+PP.Web/obj/Debug/
+PP.Data.EF/obj/
