@@ -30,7 +30,7 @@
         {
             itemCounter++;
             <div class="col-lg-4 col-md-4 col-sm-4 gallery-container">
-                <a href="Home/SinglePhoto/@item.Id" title="@item.Description">
+                <a href="@Url.Action("SinglePhoto", "Home", new { id = item.Id } )" title="@item.Description">
                     <img src="@Url.Content("~/" + item.Path)" alt="@item.Description" class="gallery-image img-rounded" />
                 </a><br>
 
