@@ -1,0 +1,28 @@
+﻿@model PP.Core.Entities.Image
+
+@{
+    ViewBag.Title = "SinglePhoto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h2>@Model.Description</h2>
+</div>
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <img src="@Url.Content("~/" + Model.Path)" alt="@Model.Description" class="single-gallery-image img-rounded" />
+    </div>
+    <div class="col-lg-12 text-center">
+        <p>@Model.UploadDate</p>
+    </div>
+
+    <ul class="pager">
+        <li>@Html.ActionLink("Back to gallery", "Index")</li>
+        @if (User.Identity.IsAuthenticated)
+            {
+            <li>
+                @Html.ActionLink("Delete photo", "Remove", new { id = Model.Id })
+            </li>
+        }
+    </ul>
+</div>

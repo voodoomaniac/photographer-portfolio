@@ -1,0 +1,20 @@
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.BusinessLogic.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.BusinessLogic.pdb
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.BusinessLogic\obj\Debug\PP.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.BusinessLogic\obj\Debug\PP.BusinessLogic.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.BusinessLogic\obj\Debug\PP.BusinessLogic.pdb
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.BusinessLogic.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.BusinessLogic.pdb
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.Core.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.Core.pdb
+D:\Work\Photographer Portfolio\PP.BusinessLogic\obj\Debug\PP.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Work\Photographer Portfolio\PP.BusinessLogic\obj\Debug\PP.BusinessLogic.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\obj\Debug\PP.BusinessLogic.pdb
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.Data.EF.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\PP.Data.EF.pdb
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Photographer Portfolio\PP.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.xml

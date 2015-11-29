@@ -1,0 +1,15 @@
+C:\Users\Dmitriy Sklyarov\Desktop\Ciklum test project\Photographer Portfolio\PP.Core\bin\Debug\PP.Core.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Ciklum test project\Photographer Portfolio\PP.Core\bin\Debug\PP.Core.pdb
+C:\Users\Dmitriy Sklyarov\Desktop\Ciklum test project\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy Sklyarov\Desktop\Ciklum test project\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Ciklum test project\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.pdb
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Core\bin\Debug\PP.Core.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Core\bin\Debug\PP.Core.pdb
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.pdb
+D:\Work\Photographer Portfolio\PP.Core\bin\Debug\PP.Core.dll
+D:\Work\Photographer Portfolio\PP.Core\bin\Debug\PP.Core.pdb
+D:\Work\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.dll
+D:\Work\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.pdb
+D:\Work\Photographer Portfolio\PP.Core\obj\Debug\PP.Core.csprojResolveAssemblyReference.cache

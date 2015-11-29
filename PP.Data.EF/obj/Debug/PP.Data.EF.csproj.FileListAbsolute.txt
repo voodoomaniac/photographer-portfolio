@@ -1,0 +1,61 @@
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Data.EF.dll.config
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Data.EF.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Data.EF.pdb
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Owin.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Core.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Core.pdb
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.dll
+C:\Users\Dmitriy Sklyarov\Desktop\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.pdb
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Data.EF.dll.config
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Data.EF.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Data.EF.pdb
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Owin.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Core.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\PP.Core.pdb
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.csprojResolveAssemblyReference.cache
+D:\Work\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.Migrations.Modelupdate.resources
+D:\Work\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.csproj.GenerateResource.Cache
+D:\Work\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.dll
+D:\Work\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.pdb
+D:\Work\Photographer Portfolio\PP.Data.EF\obj\Debug\PP.Data.EF.Migrations.AddedValidationToImageModel.resources
